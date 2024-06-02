@@ -6,3 +6,4 @@ Mostrando pull con rebase y sin rebase
 Este es otro cambio 3.0
 Este es otro cambio 4.0
 Este es otro cambio 5.0
+Este es otro cambio 6.0
